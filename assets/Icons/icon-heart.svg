@@ -1,0 +1,8 @@
+<svg id="icon_heart" data-name="icon/heart" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="Rectangle_1131" data-name="Rectangle 1131" width="36" height="36" fill="none"/>
+  <g id="Group_2853" data-name="Group 2853" transform="translate(2 3)">
+    <g id="favorite">
+      <path id="Path_913" data-name="Path 913" d="M16.216,50.81a2.263,2.263,0,0,1-1.382-.5l-1.508-1.237C4.894,41.309,0,36.094,0,29.681A8.976,8.976,0,0,1,8.919,20.4a9.6,9.6,0,0,1,7.3,3.544,9.6,9.6,0,0,1,7.3-3.544,8.976,8.976,0,0,1,8.919,9.281c0,6.413-4.894,11.628-13.326,19.39L17.6,50.309A2.263,2.263,0,0,1,16.216,50.81Z" transform="translate(0 -20.4)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

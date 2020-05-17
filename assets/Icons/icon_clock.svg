@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_9" data-name="Repeat Grid 9" clip-path="url(#clip-path)">
+    <g transform="translate(-125 -101)">
+      <g id="コンポーネント_65" data-name="コンポーネント 65" transform="translate(125 101)">
+        <rect id="Rectangle_1339" data-name="Rectangle 1339" width="20" height="20" fill="none"/>
+        <g id="passage-of-time" transform="translate(1.667 2.007)">
+          <g id="Layer_1_65_" transform="translate(0 0)">
+            <g id="Group_7331" data-name="Group 7331">
+              <path id="Path_7782" data-name="Path 7782" d="M16.232,8.123a.342.342,0,0,0-.31-.2H14.909a7.512,7.512,0,1,0-.88,5.128.683.683,0,0,0-1.183-.685,6.157,6.157,0,1,1,.664-4.442h-1a.342.342,0,0,0-.263.561l1.709,2.05a.342.342,0,0,0,.525,0l1.709-2.05A.342.342,0,0,0,16.232,8.123Z" transform="translate(0 -1.775)" fill="#52bf1d"/>
+              <path id="Path_7783" data-name="Path 7783" d="M19.466,6.713a.683.683,0,0,0-.683.683v4.147a1.195,1.195,0,0,0,.684,2.176,1.181,1.181,0,0,0,.5-.116l2.377,1.372a.676.676,0,0,0,.341.092.683.683,0,0,0,.342-1.275l-2.38-1.374a1.19,1.19,0,0,0-.5-.874V7.4A.685.685,0,0,0,19.466,6.713Zm0,6.322a.512.512,0,1,1,.512-.512A.513.513,0,0,1,19.466,13.035Z" transform="translate(-11.948 -5.004)" fill="#52bf1d"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

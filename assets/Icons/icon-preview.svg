@@ -1,0 +1,7 @@
+<svg id="icon_preview" data-name="icon/preview" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Rectangle_1255" data-name="Rectangle 1255" width="40" height="40" fill="none"/>
+  <g id="home" transform="translate(0 1.413)">
+    <path id="Path_7784" data-name="Path 7784" d="M62.319,135.551a1.228,1.228,0,0,0-1.188,1.265v12.833H37.011V136.816a1.191,1.191,0,1,0-2.377,0v14.1a1.228,1.228,0,0,0,1.188,1.265h26.5a1.228,1.228,0,0,0,1.188-1.265v-14.1A1.228,1.228,0,0,0,62.319,135.551Z" transform="translate(-29.146 -115.615)" fill="#fff"/>
+    <path id="Path_7785" data-name="Path 7785" d="M39.5,37.625,20.763,17.689a1.138,1.138,0,0,0-1.681,0L.348,37.625a1.323,1.323,0,0,0,0,1.788,1.139,1.139,0,0,0,1.681,0L19.923,20.371l17.9,19.042a1.138,1.138,0,0,0,1.681,0A1.323,1.323,0,0,0,39.5,37.625Z" transform="translate(0 -17.319)" fill="#fff"/>
+  </g>
+</svg>

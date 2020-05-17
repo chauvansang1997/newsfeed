@@ -1,0 +1,13 @@
+<svg id="icon_exchange" data-name="icon/exchange" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Rectangle_1335" data-name="Rectangle 1335" width="40" height="40" fill="none"/>
+  <g id="Group_6509" data-name="Group 6509" transform="translate(3.684 3.412)">
+    <g id="Group_6507" data-name="Group 6507" transform="translate(1.621 16.588)">
+      <path id="Path_6485" data-name="Path 6485" d="M45.5,94a16.493,16.493,0,0,1-30.8,8.294" transform="translate(-13.911 -94)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_6486" data-name="Path 6486" d="M17.052,140.213l-5.44-.613L11,145.045" transform="translate(-11 -131.378)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_6508" data-name="Group 6508" transform="translate(0 0)">
+      <path id="Path_6487" data-name="Path 6487" d="M2,18.588a16.571,16.571,0,0,1,30.926-8.294" transform="translate(-2 -2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_6488" data-name="Path 6488" d="M143.7,23.032l5.458.613.612-5.445" transform="translate(-118.177 -15.279)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

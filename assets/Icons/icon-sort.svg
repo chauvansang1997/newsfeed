@@ -1,0 +1,13 @@
+<svg id="icon_sort" data-name="icon/sort" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="sort-down" transform="translate(1.162 2.238)">
+    <g id="Group_5213" data-name="Group 5213">
+      <g id="Group_5212" data-name="Group 5212" transform="translate(0 0)">
+        <path id="Path_4454" data-name="Path 4454" d="M1.005,90.727H11.134V88.761H1.005a.983.983,0,1,0,0,1.966Z" transform="translate(0 -86.139)" fill="#52bf1d"/>
+        <path id="Path_4455" data-name="Path 4455" d="M1.005,193.284H11.134v-1.966H1.005a.983.983,0,1,0,0,1.966Z" transform="translate(0 -184.75)" fill="#52bf1d"/>
+        <path id="Path_4456" data-name="Path 4456" d="M1.005,293.874h0a.983.983,0,1,0,0,1.966H8.042a2.382,2.382,0,0,1,.212-1.966Z" transform="translate(0 -283.36)" fill="#52bf1d"/>
+        <path id="Path_4457" data-name="Path 4457" d="M240.64,31.459a1.291,1.291,0,0,0-1.8,0L237.8,32.48V21.852a1.271,1.271,0,0,0-2.542,0V32.48l-1.044-1.021a1.291,1.291,0,0,0-1.8,0,1.224,1.224,0,0,0,0,1.758l3.213,3.143a1.292,1.292,0,0,0,1.8,0l3.213-3.143A1.224,1.224,0,0,0,240.64,31.459Z" transform="translate(-222.917 -20.609)" fill="#52bf1d"/>
+      </g>
+    </g>
+  </g>
+  <rect id="Rectangle_1218" data-name="Rectangle 1218" width="20" height="20" fill="none"/>
+</svg>

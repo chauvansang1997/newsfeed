@@ -1,0 +1,10 @@
+<svg id="icon_point" data-name="icon/point" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_295" data-name="Rectangle 295" width="24" height="24" fill="none"/>
+  <g id="Ellipse_312" data-name="Ellipse 312" transform="translate(1 1)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="1.6">
+    <circle cx="11" cy="11" r="11" stroke="none"/>
+    <circle cx="11" cy="11" r="10.2" fill="none"/>
+  </g>
+  <g id="Group_2850" data-name="Group 2850" transform="translate(9.5 8)">
+    <path id="Path_910" data-name="Path 910" d="M878.645,504.875a.882.882,0,0,1-.881-.881v-5.953a.882.882,0,0,1,.881-.881h1.822a5.332,5.332,0,0,1,1.21.127,3.049,3.049,0,0,1,.977.41,1.906,1.906,0,0,1,.678.785,2.993,2.993,0,0,1-.005,2.374,2.187,2.187,0,0,1-.673.83,3.032,3.032,0,0,1-.967.471,4.181,4.181,0,0,1-1.169.157h-.8a.09.09,0,0,0-.1.1v1.579a.881.881,0,0,1-.881.881Zm.972-4.121a.09.09,0,0,0,.1.1h.709q1.336,0,1.336-1.185a.909.909,0,0,0-.344-.8,1.848,1.848,0,0,0-1.043-.238h-.658a.09.09,0,0,0-.1.1Z" transform="translate(-877.764 -497.16)" fill="#ccc"/>
+  </g>
+</svg>

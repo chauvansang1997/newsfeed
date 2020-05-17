@@ -1,0 +1,20 @@
+<svg id="icon_exclamation" data-name="icon/exclamation" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="exclamation" transform="translate(4 4)">
+    <g id="Group_3457" data-name="Group 3457">
+      <g id="Group_3456" data-name="Group 3456">
+        <path id="Path_1861" data-name="Path 1861" d="M8.1,0a8.1,8.1,0,1,0,8.1,8.1A8.094,8.094,0,0,0,8.1,0Zm0,14.932A6.833,6.833,0,1,1,14.932,8.1,6.83,6.83,0,0,1,8.1,14.932Z" fill="#ed4d4d"/>
+      </g>
+    </g>
+    <g id="Group_3459" data-name="Group 3459" transform="translate(7.466 4.077)">
+      <g id="Group_3458" data-name="Group 3458">
+        <path id="Path_1862" data-name="Path 1862" d="M236.633,128.877a.633.633,0,0,0-.633.633v4.075a.633.633,0,0,0,1.265,0V129.51A.633.633,0,0,0,236.633,128.877Z" transform="translate(-236 -128.877)" fill="#ed4d4d"/>
+      </g>
+    </g>
+    <g id="Group_3461" data-name="Group 3461" transform="translate(7.245 10.192)">
+      <g id="Group_3460" data-name="Group 3460">
+        <circle id="Ellipse_331" data-name="Ellipse 331" cx="0.854" cy="0.854" r="0.854" fill="#ed4d4d"/>
+      </g>
+    </g>
+  </g>
+  <rect id="Rectangle_1141" data-name="Rectangle 1141" width="24" height="24" fill="none"/>
+</svg>

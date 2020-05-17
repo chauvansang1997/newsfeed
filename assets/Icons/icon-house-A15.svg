@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_7478" data-name="Group 7478" transform="translate(1043 -3521)">
+    <g id="house" transform="translate(-1038 3524.428)">
+      <g id="Group_7477" data-name="Group 7477" transform="translate(0 0.572)">
+        <g id="Group_7476" data-name="Group 7476" transform="translate(0 0)">
+          <path id="Path_7876" data-name="Path 7876" d="M26.062,13.288A.592.592,0,0,0,26,13.223H26L21.421,8.648V2.355a.594.594,0,0,0-.594-.594H17.262a.594.594,0,0,0-.594.594V3.894L13.524.745a.594.594,0,0,0-.838,0L.208,13.223a.594.594,0,1,0,.838.838L3.6,11.512V26.124a.594.594,0,0,0,.594.594H22.016a.594.594,0,0,0,.594-.594V11.512l2.549,2.549a.594.594,0,0,0,.9-.773ZM17.856,2.949h2.377v4.51L17.856,5.083V2.949ZM9.537,25.529H4.783V24.341H9.537Zm5.942,0H10.726V16.022h4.754Zm5.942,0H16.668V24.341h4.754Zm0-2.377H16.668V15.428a.594.594,0,0,0-.594-.594H10.131a.594.594,0,0,0-.594.594v7.725H4.783V10.323L13.1,2l8.319,8.319Z" transform="translate(0 -0.572)" fill="#e6b631"/>
+          <circle id="Ellipse_363" data-name="Ellipse 363" cx="0.594" cy="0.594" r="0.594" transform="translate(13.102 20.204)" fill="#e6b631"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_1372" data-name="Rectangle 1372" width="36" height="36" transform="translate(-1043 3521)" fill="none"/>
+  </g>
+</svg>
