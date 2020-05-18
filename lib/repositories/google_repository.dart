@@ -4,6 +4,7 @@ import 'package:newsfeed/models/daily_trend_search_data.dart';
 import 'package:newsfeed/models/realtime_search.dart';
 
 class GoogleRepository {
+
   Future<List<Article>> fetchArticlesInfo(List<String> ids, String category) =>
       Api.getTrendArticles(ids, category);
 
