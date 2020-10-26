@@ -1,3 +1,6 @@
+import 'dart:async';
+import 'dart:core';
+
 import 'package:newsfeed/models/realtime_search.dart';
 import 'package:newsfeed/repositories/google_repository.dart';
 import 'package:rxdart/rxdart.dart';
@@ -11,9 +14,9 @@ class RealtimeSearchBloc {
 
   BehaviorSubject<bool> _refreshFetcher;
 
-  Observable<bool> get loadMore => _loadMoreFetcher.stream;
+  Stream<bool> get loadMore => _loadMoreFetcher.stream;
 
-  Observable<bool> get refresh => _refreshFetcher.stream;
+  Stream<bool> get refresh => _refreshFetcher.stream;
 
   Map<String, List<String>> _mapIdType;
 

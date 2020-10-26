@@ -6,7 +6,7 @@ class RelatedArticleBloc{
   final _googleRepository = GoogleRepository();
   final _articlesFetcher = BehaviorSubject<List<Article>>();
 
-  Observable<List<Article>> get relatedArticles => _articlesFetcher.stream;
+  Stream<List<Article>> get relatedArticles => _articlesFetcher.stream;
 
 
   void dispose(){

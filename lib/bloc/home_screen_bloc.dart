@@ -1,3 +1,7 @@
+import 'dart:async';
+import 'dart:async';
+import 'dart:core';
+
 import 'package:rxdart/rxdart.dart';
 
 enum NewsMode { News, KeyWord }
@@ -5,7 +9,7 @@ enum NewsMode { News, KeyWord }
 class HomeScreenBloc {
   BehaviorSubject<NewsMode> _changeNewsModeFetcher;
 
-  Observable<NewsMode> get mode => _changeNewsModeFetcher.stream;
+  Stream<NewsMode> get mode => _changeNewsModeFetcher.stream;
   NewsMode _newsMode = NewsMode.News;
 
   Future<void> dispose() async {

@@ -44,40 +44,24 @@ class ArticleWidget extends StatelessWidget {
             children: <Widget>[
               Expanded(
                 flex: 11,
-                child: Hero(
-                  flightShuttleBuilder: (
-                    BuildContext flightContext,
-                    Animation<double> animation,
-                    HeroFlightDirection flightDirection,
-                    BuildContext fromHeroContext,
-                    BuildContext toHeroContext,
-                  ) {
-                    final Hero toHero = toHeroContext.widget;
-                    return RotationTransition(
-                      turns: animation,
-                      child: toHero.child,
-                    );
-                  },
-                  child: Container(
-                    width: 125 * screenWidth / 360,
-                    height: 130 * screenHeight / 780,
-                    decoration: article.image != null
-                        ? BoxDecoration(
-                            image: DecorationImage(
-                              image: NetworkImage(article.image),
-                              fit: BoxFit.cover,
-                            ),
-                            borderRadius: BorderRadius.only(
-                                topLeft: Radius.circular(5),
-                                bottomLeft: Radius.circular(5)),
-                          )
-                        : BoxDecoration(
-                            borderRadius: BorderRadius.only(
-                                topLeft: Radius.circular(5),
-                                bottomLeft: Radius.circular(5)),
+                child: Container(
+                  width: 125 * screenWidth / 360,
+                  height: 130 * screenHeight / 780,
+                  decoration: article.image != null
+                      ? BoxDecoration(
+                          image: DecorationImage(
+                            image: NetworkImage(article.image),
+                            fit: BoxFit.cover,
                           ),
-                  ),
-                  tag: tag == '' ? article.id : tag,
+                          borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(5),
+                              bottomLeft: Radius.circular(5)),
+                        )
+                      : BoxDecoration(
+                          borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(5),
+                              bottomLeft: Radius.circular(5)),
+                        ),
                 ),
               ),
               Expanded(

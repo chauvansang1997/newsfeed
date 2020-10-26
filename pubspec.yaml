@@ -14,7 +14,7 @@ description: A application help every body update trending news.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.8.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -24,8 +24,8 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   flutter_inappbrowser: ^1.2.1
-  rxdart: ^0.18.0
-  sprintf: ^4.0.0
+  rxdart: ^0.24.1
+  sprintf: ^5.0.0
   flutter_svg: ^0.14.1
   flutter_swiper: ^1.1.6
   flutter_page_indicator: ^0.0.3
@@ -45,11 +45,11 @@ dependencies:
   firebase_auth: ^0.15.3+1
   google_sign_in: ^4.1.1
   cloud_firestore: ^0.13.0+1
-  pull_to_refresh: ^1.5.8
-  webview_flutter: ^0.3.21
+  pull_to_refresh: ^1.6.2
+  webview_flutter: ^1.0.5
   http: ^0.12.0+2
-  html_unescape: ^1.0.1+3
-  percent_indicator: ^2.1.3
+  html_unescape: ^1.0.2
+  percent_indicator: ^2.1.8
 dev_dependencies:
   flutter_test:
     sdk: flutter

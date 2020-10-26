@@ -13,10 +13,10 @@ class DailyTrendBloc {
 
   DailyTrendSearchData _dailyTrendSearchData;
   String endDateForNextRequest = '';
-  Observable<bool> get loadMore => _loadMoreFetcher.stream;
+  Stream<bool> get loadMore => _loadMoreFetcher.stream;
 
-  Observable<bool> get refresh => _refreshFetcher.stream;
-  Observable<DailyTrendSearchData> get trendSearchArticles =>
+  Stream<bool> get refresh => _refreshFetcher.stream;
+  Stream<DailyTrendSearchData> get trendSearchArticles =>
       _trendSearchFetcher.stream;
 
   void dispose() {
